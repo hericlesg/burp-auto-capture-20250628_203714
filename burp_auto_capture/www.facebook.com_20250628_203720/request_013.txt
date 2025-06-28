@@ -1,0 +1,161 @@
+POST /tr/ HTTP/2
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: multipart/form-data; boundary=----geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Length: 6126
+Referer: https://vaidebet.bet.br/
+Origin: https://vaidebet.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="id"
+
+475843832204038
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="ev"
+
+SubscribedButtonClick
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="dl"
+
+https://vaidebet.bet.br/ptb/authentication/signup
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="rl"
+
+https://m.vaidebet.com/
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="if"
+
+false
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="ts"
+
+1751153763307
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="cd[buttonFeatures]"
+
+{"classList":"btn next-btn flex-item register-btn ng-star-inserted","destination":"https://vaidebet.bet.br/ptb/authentication/signup","id":"","imageUrl":"","innerText":"Finalizar","numChildButtons":0,"tag":"button","type":"submit","name":"","value":""}
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="cd[buttonText]"
+
+Finalizar
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="cd[formFeatures]"
+
+[{"id":"cpfNumber","name":"","tag":"input","inputType":"text"},{"id":"username","name":"","tag":"input","inputType":"text","valueMeaning":"empty"},{"id":"firstName","name":"","tag":"input","inputType":"text","valueMeaning":"empty"},{"id":"email","name":"","tag":"input","inputType":"email","valueMeaning":"empty"},{"id":"days","name":"","tag":"select","valueMeaning":"empty"},{"id":"months","name":"","tag":"select","valueMeaning":"empty"},{"id":"years","name":"","tag":"select","valueMeaning":"empty"},{"id":"password","name":"","tag":"input","inputType":"password","valueMeaning":"empty"},{"id":"passwordConfirmation","name":"","tag":"input","inputType":"password","valueMeaning":"empty"},{"id":"phone","name":"","tag":"input","placeholder":"Mobile Number","inputType":"text","valueMeaning":"empty"},{"id":"countryId","name":"","tag":"select"},{"id":"gender-M","name":"","tag":"input","inputType":"radio"},{"id":"gender-F","name":"","tag":"input","inputType":"radio"},{"id":"gender-X","name":"","tag":"input","inputType":"radio"},{"id":"termsAndConditions","name":"termsAndConditions","tag":"input","inputType":"checkbox"},{"id":"termsConditionsAndPrivacyPolicy","name":"termsConditionsAndPrivacyPolicy","tag":"input","inputType":"checkbox"},{"id":"promotionClaim","name":"promotionClaim","tag":"input","inputType":"checkbox"}]
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="cd[pageFeatures]"
+
+{"title":"Vaidebet: FaÃ§a seu login e comece a jogar - Vai de bet"}
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="cd[parameters]"
+
+[]
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="sw"
+
+2560
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="sh"
+
+1080
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="cudff[fn]"
+
+^^*****^
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="cudff[em]"
+
+***********####@*****.***
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="cudff[ph]"
+
+###########
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="ncudff[fn]"
+
+***
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="udff[fn]"
+
+81e31e2555868ca14b764b57cb1f967eeea97b8bbd80f3933dd0893c23f84342
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="ncudff[em]"
+
+***********####@*****.***
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="udff[em]"
+
+1f2152778681b03ef37062309defa0e71ef8b37ec0bde610cc069d5026aa179b
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="ncudff[ph]"
+
+###########
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="udff[ph]"
+
+2fa27d16fc6a5dfa3de58303641a3365935e1c173def0bc5d1cb8d6f5ca30123
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="v"
+
+2.9.211
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="r"
+
+stable
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="a"
+
+tmSimo-GTM-WebTemplate
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="ec"
+
+18
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="o"
+
+6174
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="fbp"
+
+fb.2.1751137993150.351867505684328569
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="cs_est"
+
+true
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="ler"
+
+other
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="it"
+
+1751152765322
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="coo"
+
+false
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="es"
+
+automatic
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="tm"
+
+3
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="exp"
+
+r3
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7
+Content-Disposition: form-data; name="rqm"
+
+SB
+------geckoformboundaryfe61e473411ec307dbb37a9ade0545f7--
